@@ -28,7 +28,7 @@ Contributors
 ------------------
 |Name     |  
 |---------|
-|[Yichang Chen](https://github.com/[yichangchen1030 ])| 
+|[Yichang Chen](https://github.com/[yichangchen1030])| 
 |[Rui Han](https://github.com/[harry0107100]) | 
 |[Jiahe Hou](https://github.com/[jiahehousherry]) | 
 |[Dingran Lu](https://github.com/[LDRRRR]) | 
