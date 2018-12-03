@@ -77,7 +77,25 @@ Preview of important results
  <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.19.27%20PM.png?raw=true" width="500" height="220">
  <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.19.45%20PM.png?raw=true" width="500" height="210">
  
+ - Highly used and rarely used bikes are found by locating their ids. Some bikes travel more than 1000 miles in a month and some bikes are not used. Highly used bikes require maintainance while those travel very short distances need to be checked whether they are functional. 
+
+- The top 10% highly used bycicles often park in these stations:
+  - Pershing Square North
+  - Broadway & E 22 St
+  - E 17 St & Broadway
+  - Central Park S & 6 Ave
+  - W 21 St & 6 Ave
+  
+ - The bottom 10% rarely used bycicles often park in these stations:
+  - Hanson Pl & Ashland Pl
+  - DeKalb Ave & Hudson Ave
+  - Grand Army Plaza & Central Park S
+  - Broadway & E 22 St
+  - 3 St & 3 Ave
  
+ - Bycicles can be relocated between popular stations and unpopular stations. Funtionaliteis need to be checked.
+  - Especially for Broadway & E 22 St, people have bycicles preference at that station. This might due to some bicycles are not functional.
+
 Getting Started
 ------------------
 1. Clone this repo
