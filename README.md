@@ -1,5 +1,6 @@
 # Analysis on Citi Bike Trips in NYC
-- Group Name: Tools 666         
+- Group Name: Tools 666 
+- Section 2
 
 Brief Description
 -------------------
@@ -109,7 +110,7 @@ Contributors
 ------------------
 |Name     |  
 |---------|
-|[Yichang Chen](https://github.com/yichangchen1030)| 
-|[Rui Han](https://github.com/harry0107100) | 
-|[Jiahe Hou](https://github.com/jiahehousherry) | 
-|[Dingran Lu](https://github.com/LDRRRR) | 
+|[Yichang Chen](https://github.com/yichangchen1030)|(yc3537) 
+|[Rui Han](https://github.com/harry0107100) | (rh2907)
+|[Jiahe Hou](https://github.com/jiahehousherry) | (jh4013)
+|[Dingran Lu](https://github.com/LDRRRR) | (dl3228)
