@@ -69,7 +69,8 @@ Methods Used
 
 Preview of important results 
 ------------------
-- **Dynamic heat map** is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
+- **Dynamic heat map** (for complete dynamic heat map, please download the html file in the repo!): 
+  ![](Plot.gif)
 - **Bar charts** show the different time schedule of subscriber (mainly local residents with annual pass, figure 1) and customer(mainly travells, figure 2) on weekdays.
   <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.16.30%20PM.png?raw=true" width="525" height="200">
   <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.16.37%20PM.png?raw=true" width="500" height="200">
