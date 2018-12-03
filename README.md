@@ -59,23 +59,25 @@ To keep the plots showing inline of the Jupyter Notebook:
 
 Methods Used
 ------------
-- Data Visualization 
+- **Data Visualization**
   - **Histogram**, **bar chart**, **line chart** on the relationship between time and distance, and give rush hour speed on a day.
   - **Dynamic heat map** to provide a dynamic view of the frequency of bike station using on a weekday per hour. 
   - **GeoJSON** to provide detailed information about a given bike station on the map
-- Predictive Modeling
+- **Predictive Modeling**
   - **Multiple linear regression**, **polynomial regression** to find out factors affecting trip duration and give a prediction of trip duration. Factors include distance, latitude and longitude of start and end bike station, etc. 
-
+- **Network** shows number of trips and average duration of pickups and dropoffs on each edge. 
 
 Preview of important results 
 ------------------
-- Dynamic heat map is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
-- Bar charts shows the different time schedule of subscriber(mainly local residents with annual pass) and customer(mainly travells) on weekdays.
- <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.16.30%20PM.png?raw=true" width="500" height="200">
+- **Dynamic heat map** is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
+- **Bar charts** show the different time schedule of subscriber (mainly local residents with annual pass, figure 1) and customer(mainly travells, figure 2) on weekdays.
+ <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.16.30%20PM.png?raw=true" width="525" height="200">
  <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.16.37%20PM.png?raw=true" width="500" height="200">
+ - **Line charts** show the bike trip flows going into Manhattan and leaving Manhattan on weekdays (figure 1) and weekends (figure 2). On weekends, the bike ride flows going into Manhattan and leaving Manhattan both peak in the afternoon. 
+ <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.19.27%20PM.png?raw=true" width="500" height="220">
+ <img src="https://github.com/harry0107100/Tools666/blob/master/Screen%20Shot%202018-12-02%20at%209.19.45%20PM.png?raw=true" width="500" height="210">
  
  
-
 Getting Started
 ------------------
 1. Clone this repo
