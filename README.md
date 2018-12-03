@@ -36,6 +36,8 @@ Methods Used
 
 Preview of important results 
 ------------------
+- Dynamic heat map is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
+
 
 
 Getting Started
@@ -49,7 +51,7 @@ Contributors
 ------------------
 |Name     |  
 |---------|
-|[Yichang Chen](https://github.com/[yichangchen1030])| 
-|[Rui Han](https://github.com/[harry0107100]) | 
-|[Jiahe Hou](https://github.com/[jiahehousherry]) | 
-|[Dingran Lu](https://github.com/[LDRRRR]) | 
+|[Yichang Chen](https://github.com/yichangchen1030)| 
+|[Rui Han](https://github.com/harry0107100) | 
+|[Jiahe Hou](https://github.com/jiahehousherry) | 
+|[Dingran Lu](https://github.com/LDRRRR) | 
