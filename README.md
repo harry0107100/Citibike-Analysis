@@ -88,7 +88,7 @@ Preview of important results
   - Central Park S & 6 Ave
   - W 21 St & 6 Ave
   
- - The bottom 10% rarely used bycicles often park in these stations:
+- The bottom 10% rarely used bycicles often park in these stations:
   - Hanson Pl & Ashland Pl
   - DeKalb Ave & Hudson Ave
   - Grand Army Plaza & Central Park S
