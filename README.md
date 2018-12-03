@@ -36,8 +36,8 @@ Methods Used
 
 Preview of important results 
 ------------------
-- Dynamic heat map is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
-
+- **Dynamic heat map** is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
+- **Bar charts** to visualize the difference of bike using schedules of customer and subscriber on both weekday and weekend. 
 
 
 Getting Started
