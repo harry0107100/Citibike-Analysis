@@ -110,7 +110,7 @@ Contributors
 ------------------
 |Name     |  
 |---------|
-|[Yichang Chen](https://github.com/yichangchen1030)|(yc3537) 
-|[Rui Han](https://github.com/harry0107100) | (rh2907)
-|[Jiahe Hou](https://github.com/jiahehousherry) | (jh4013)
-|[Dingran Lu](https://github.com/LDRRRR) | (dl3228)
+|[Yichang Chen (yc3537)](https://github.com/yichangchen1030)|
+|[Rui Han (rh2907)](https://github.com/harry0107100) |
+|[Jiahe Hou (jh4013)](https://github.com/jiahehousherry) |
+|[Dingran Lu (dl3228)](https://github.com/LDRRRR) | 
