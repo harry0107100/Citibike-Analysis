@@ -96,7 +96,7 @@ Preview of important results
   - 3 St & 3 Ave
  
  - Bycicles can be relocated between popular stations and unpopular stations. Funtionaliteis need to be checked.
-  - Especially for Broadway & E 22 St, people have bycicles preference at that station. This might due to some bicycles are not functional.
+  - Especially for Broadway & E 22 St, people have preference of bycicles at that station. This might due to some bicycles are not functional.
 
 Getting Started
 ------------------
