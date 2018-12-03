@@ -9,12 +9,21 @@ Project Description
 Package List
 -----------------------
 To install numpy package:
-!pip install numpy
-import numpy as np
+- !pip install numpy
+- import numpy as np
 
-To install pandas package
-!pip install pandas
-import pandas as np
+Install pandas package to work on data frame:
+- !pip install pandas
+- import pandas as np
+
+Use matplotlib and seaborn packages for plotting:
+- !pip install matplotlib
+- import matplotlib.pyplot as plt
+- !pip install seaborn
+- import seaborn as sns
+
+We need json and geojson packags to 
+
 Methods Used
 ------------
 - Data Visualization
