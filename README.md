@@ -1,7 +1,7 @@
 # Analysis on Citi Bike Trips in NYC
 - Group name: Tools 666         
 
-Project Description
+Brief Description
 -------------------
 
 
