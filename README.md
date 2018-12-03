@@ -1,9 +1,9 @@
 # Analysis on Citi Bike Trips in NYC
 - Group name: Tools 666         
 
-Brief Description
+Project Description
 -------------------
-The motivation of this project is to improve the location of bike stations by find the least used bike station and the busiest bike station, and to find out the most used bikes and least used bikes to better reallocate them for efficiency. 
+
 
 
 Package List
@@ -22,20 +22,45 @@ Use matplotlib and seaborn packages for plotting:
 - !pip install seaborn
 - import seaborn as sns
 
-We need json and geojson packags to 
+We need json and geojsonio packags to do geospacial plotting:
+- !pip install json
+- import json 
+- !pip install geojsonio
+- import geojsonio
+
+To deal with date objects:
+- !pip install datetime
+- import datetime
+
+folium is installed to draw heat map:
+- !pip install folium
+- import folium
+
+To cunstruct network of the bikes, we need to install networkx:
+- !pip install network
+- import network as nx
+
+To analyze centrality of stations, we need import two functions and collections package
+- from networkx.algorithms import closeness_centrality
+- from networkx.algorithms import communicability
+- !pip install collections 
+- import collections
+
+For machine learning part, package sklearn is used:
+- !pip install sklearn 
+- import sklearn
+
+To check the statistical results of regressions, install:
+- !pip statsmodels.api 
+- import statsmodels.api as sm
+
+To keep the plots showing inline of the Jupyter Notebook:
+- %matplotlib inline
 
 Methods Used
 ------------
-- Data Visualization 
-  - **Histogram**, **bar chart**, **line chart** on the relationship between time and distance, and give rush hour speed on a day.
-  - **Dynamic heat map** to provide a dynamic view of the frequency of bike station using on a weekday per hour. 
-  - **GeoJSON** to provide detailed information about a given bike station on the map
+- Data Visualization
 - Predictive Modeling
-  - **Multiple linear regression**, **polynomial regression**, **random forest** to find out factors affecting trip duration and give a prediction of trip duration. Factors include distance, latitude and longitude of start and end bike station, etc. 
-
-
-Preview of important results 
-------------------
 
 
 Getting Started
