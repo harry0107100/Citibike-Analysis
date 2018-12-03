@@ -3,7 +3,7 @@
 
 Brief Description
 -------------------
-
+The motivation of this project is to improve the location of bike stations by find the least used bike station and the busiest bike station, and to find out the most used bikes and least used bikes to better reallocate them for efficiency. 
 
 
 Package List
