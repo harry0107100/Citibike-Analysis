@@ -41,7 +41,7 @@ Preview of important results
 Getting Started
 ------------------
 1. Clone this repo
-2. Download raw Data [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) (the data is too big to upload on github)
+2. Download raw data [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) (the data is too big to upload on github)
 3. Data processing - notebook in this repo
 
 
