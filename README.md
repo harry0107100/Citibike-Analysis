@@ -26,7 +26,10 @@ We need json and geojson packags to
 
 Methods Used
 ------------
-- Data Visualization
+- Data Visualization 
+  - **Histogram**, **bar chart**on the relationship between time and distance, and give rush hour speed on a day
+  - **Dynamic heat map**
+  - **GeoJSON** to provide detailed information about a given bike station on the map
 - Predictive Modeling
 
 
