@@ -8,9 +8,13 @@ Project Description
 
 Package List
 -----------------------
+To install numpy package:
+!pip install numpy
+import numpy as np
 
-
-
+To install pandas package
+!pip install pandas
+import pandas as np
 Methods Used
 ------------
 - Data Visualization
