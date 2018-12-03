@@ -22,7 +22,40 @@ Use matplotlib and seaborn packages for plotting:
 - !pip install seaborn
 - import seaborn as sns
 
-We need json and geojson packags to 
+We need json and geojsonio packags to do geospacial plotting:
+- !pip install json
+- import json 
+- !pip install geojsonio
+- import geojsonio
+
+To deal with date objects:
+- !pip install datetime
+- import datetime
+
+folium is installed to draw heat map:
+- !pip install folium
+- import folium
+
+To cunstruct network of the bikes, we need to install networkx:
+- !pip install network
+- import network as nx
+
+To analyze centrality of stations, we need import two functions and collections package
+- from networkx.algorithms import closeness_centrality
+- from networkx.algorithms import communicability
+- !pip install collections 
+- import collections
+
+For machine learning part, package sklearn is used:
+- !pip install sklearn 
+- import sklearn
+
+To check the statistical results of regressions, install:
+- !pip statsmodels.api 
+- import statsmodels.api as sm
+
+To keep the plots showing inline of the Jupyter Notebook:
+- %matplotlib inline
 
 Methods Used
 ------------
@@ -36,8 +69,8 @@ Methods Used
 
 Preview of important results 
 ------------------
-- **Dynamic heat map** is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
-- **Bar charts** to visualize the difference of bike using schedules of customer and subscriber on both weekday and weekend. 
+- Dynamic heat map is [here](https://s3.amazonaws.com/tripdata/201810-citibike-tripdata.csv.zip) !
+
 
 
 Getting Started
