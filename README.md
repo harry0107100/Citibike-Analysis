@@ -31,7 +31,7 @@ Methods Used
   - **Dynamic heat map** to provide a dynamic view of the frequency of bike station using on a weekday per hour. 
   - **GeoJSON** to provide detailed information about a given bike station on the map
 - Predictive Modeling
-  - **multiple linear regression**, **polynomial regression**, **random forest** to find out factors affecting trip duration and give a prediction of trip duration. Factors include distance, latitude and longitude of start and end bike station, etc. 
+  - **Multiple linear regression**, **polynomial regression**, **random forest** to find out factors affecting trip duration and give a prediction of trip duration. Factors include distance, latitude and longitude of start and end bike station, etc. 
 
 
 Preview of important results 
